@@ -47,5 +47,14 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+## How i created the app
+```bash
+# initialize project
+$ npx create-react-app my-app --template typescript
+
+# add mui
+$ npm install @mui/material @emotion/react @emotion/styled
+```
+
 ---
 > *Created by - Emil Andersen - 2023*
