@@ -54,6 +54,12 @@ $ npx create-react-app my-app --template typescript
 
 # add mui
 $ npm install @mui/material @emotion/react @emotion/styled
+
+# add mui icons
+$ npm install @mui/icons-material
+
+# add browser route
+$ npm install react-router-dom
 ```
 
 ---
